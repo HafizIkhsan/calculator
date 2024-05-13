@@ -1,0 +1,12 @@
+/* body {
+  font-family: ;
+} */
+
+.calc {
+  background-color: white;
+  box-shadow: 0 0 30px black;
+  border: 1px;
+  margin: auto;
+  width: fit-content;
+  height: fit-content;
+}
